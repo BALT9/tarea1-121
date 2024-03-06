@@ -1,0 +1,73 @@
+body{
+  background-color: black;
+}
+.caja1{
+    width: 400px;
+    height: 200px;    
+    background-color: brown;
+    margin: auto;
+}
+.caja2{
+    width: 700px;
+    height: 50px;
+    background-color: brown;
+    margin: auto;
+}
+.cara{
+    background-color: white;
+    width: 700px;
+    height: 720px;
+    border-radius: 40%;
+    margin: auto;
+}
+.ojos{
+    display: flex;
+    justify-content: center;
+}
+.ojo{
+    width: 180px;
+    height: 180px;
+    background-color: white;
+    margin: 20px;
+    display: inline-block;
+    border-radius: 50%;
+    border: 3px solid black;
+}
+.negrita{
+  width: 60px;
+  height: 50px;
+  background-color: black;
+  border-radius: 50%;
+  margin: auto;
+  margin-top: 50px;
+}
+.nariz{
+  width: 150px;
+  height: 150px;
+  background: red;
+  border-radius: 50%;
+  margin: auto;
+}
+.boca{
+    background-color: yellow;
+    width: 450px;
+    height: 400px;
+    margin:auto;
+    border-radius: 40%;
+    display: flex;
+    align-items: center;
+}
+.labio{
+    width: 300px;
+    height: 250px;
+    background-color: green;
+    border-radius: 40%;
+    margin: auto;
+}
+.linea{
+    width: 200px;
+    height: 50px;
+    background-color: black;
+    margin: auto;
+    margin-top: 70px;
+}
